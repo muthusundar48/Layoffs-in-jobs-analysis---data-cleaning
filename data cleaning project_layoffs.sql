@@ -1,10 +1,7 @@
--- 1.Remove duplicates
--- 2.Standardize data
--- 3.Null values or blank values
--- 4.Remove any columns or rows
-
+---sql
 SELECT *
 FROM layoffs;
+---
 
 CREATE TABLE layoffs_v1
 LIKE layoffs;

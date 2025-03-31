@@ -3,16 +3,22 @@ SELECT *
 FROM layoffs;
 ```
 
+```sql
 CREATE TABLE layoffs_v1
 LIKE layoffs;
+```
 
+```sql
 SELECT *
 FROM layoffs_v1;
+```
 
 -- creating and inserting from raw source
+```sql
 INSERT layoffs_v1
 SELECT *
 FROM layoffs;
+```
 
 -- findind duplicates
 WITH duplicate_cte AS(

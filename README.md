@@ -31,7 +31,6 @@ This project focuses on **cleaning and preparing raw data** for better analysis 
 - `layoffs.csv` → Uncleaned original dataset
 - `cleaned_layoffs.csv` → Final cleaned dataset
 - `data cleaning project_layoffs.sql` → SQL queries used for cleaning
-- `Data_Cleaning_Report.xlsx` → Excel file with cleaned data and insights
 
 ## 🔍 How to Use This Project
 1. Clone this repository:

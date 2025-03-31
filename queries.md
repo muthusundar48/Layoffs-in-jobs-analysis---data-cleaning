@@ -210,13 +210,13 @@ WHERE total_laid_off is NULL
 AND percentage_laid_off IS NULL;
 ```
 
-```sql
 -- Deleting row_num column
+```sql
 ALTER TABLE layoffs_v2
 DROP COLUMN row_num;
 ```
 
----Final cleaned data
+**--Final cleaned data--**
 ```sql
 SELECT *
 FROM layoffs_v2;

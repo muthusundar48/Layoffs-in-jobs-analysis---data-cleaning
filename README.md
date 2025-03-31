@@ -1,4 +1,4 @@
-# Layoffs-in-jobs-analysis--data-cleaning
+# Layoffs-in-jobs-analysis--data-cleaning & Exploratory Data Analysis
 This project is to analyze the layoffs happened in various companies in the past few years
 
 ## 📌 Project Overview

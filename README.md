@@ -30,7 +30,7 @@ This project focuses on **cleaning and preparing raw data** for better analysis 
 ## 📁 Project Files
 - `layoffs.csv` → Uncleaned original dataset
 - `cleaned_layoffs.csv` → Final cleaned dataset
-- `data cleaning project_layoffs.sql` → SQL queries used for cleaning
+- `queries.md` → SQL queries used for cleaning
 
 ## 🔍 How to Use This Project
 1. Clone this repository:

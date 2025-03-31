@@ -1,7 +1,5 @@
-```sql
 SELECT *
 FROM layoffs;
-```
 
 CREATE TABLE layoffs_v1
 LIKE layoffs;

@@ -34,3 +34,7 @@ This project focuses on **cleaning and preparing raw data** for better analysis 
 
 ## 🔍 How to Use This Project
 1. Clone this repository:
+2. ```sql
+   SELECT *
+   FROM layoffs_v2;
+   ```
